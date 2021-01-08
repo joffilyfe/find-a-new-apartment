@@ -1,0 +1,10 @@
+# ignores local builds
+*.jar
+
+# development environment stuff
+.calva/
+.lsp/
+.cpcache/
+.nrepl-port
+.clj-kondo/
+user/
